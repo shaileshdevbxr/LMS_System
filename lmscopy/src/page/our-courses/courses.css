@@ -1,0 +1,153 @@
+.filter-section {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    gap: 14px;
+    position: relative;
+    transition: all 0.4s;
+
+}
+
+.filterAltIcon {
+    display: none;
+    cursor: pointer;
+}
+
+.filter-section .filter-name {
+    width: 28%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    box-shadow: 2px 2px 4px rgb(33, 33, 33) inset;
+    transition: all 0.4s;
+}
+
+.filter-section .filter-cards {
+    width: 75%;
+    height: 170vh;
+    overflow-y: auto;
+    overflow-x: hidden;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    gap: 35px;
+}
+
+
+/* width */
+.filter-cards::-webkit-scrollbar {
+    width: 7px;
+}
+
+/* Track */
+.filter-cards::-webkit-scrollbar-track {
+    background: #0a0e18ed;
+    border-radius: 5px;
+}
+
+/* Handle */
+.filter-cards::-webkit-scrollbar-thumb {
+    background: #c9c8c8;
+    border-radius: 5px;
+}
+
+/* Handle on hover */
+.filter-cards::-webkit-scrollbar-thumb:hover {
+    background: #556b6b;
+
+}
+
+.filter-cards::-webkit-scrollbar {
+    display: none;
+}
+
+.filter-cards {
+    scrollbar-width: none;
+    -ms-overflow-style: none;
+}
+.close-filter-name{
+    display: none;
+    font-size: 25px;
+    font-weight: 600;
+    cursor: pointer;
+    background-color: rgb(221, 221, 221);
+    border-radius: 100%;
+    padding:0px 12px 3px 12px;
+    /* width: 40px;
+    height: 40px; */
+    color: rgb(255, 20, 20);
+    text-align: center;
+}
+.clearall-btn{
+    display: block;
+}
+
+
+@media only screen and (max-width:1260px) {
+    .filterAltIcon {
+        display: block;
+    }
+
+    .filter-section .filter-name {
+        display: none;
+        width: 100%;
+        height: 55vh;
+        position: absolute;
+        z-index: 1;
+        background-color: black;
+        bottom: -2.4rem;
+        left: 0;
+        justify-content: flex-start;
+        border-radius: 10px;
+        overflow-y: scroll;
+        /* transition: bottom 1s; */
+    }
+    .close-filter-name{
+        display: block;
+    }
+    .clearall-btn{
+        display: none;
+    }
+    
+
+    /* width */
+    .filter-name::-webkit-scrollbar {
+        width: 7px;
+    }
+
+    /* Track */
+    .filter-name::-webkit-scrollbar-track {
+        background: #0a0e18ed;
+        border-radius: 5px;
+        height: 100px;
+    }
+
+    /* Handle */
+    .filter-name::-webkit-scrollbar-thumb {
+        background: #c9c8c8;
+        border-radius: 5px;
+    }
+
+    /* Handle on hover */
+    .filter-name::-webkit-scrollbar-thumb:hover {
+        background: #556b6b;
+
+    }
+
+    .filter-section {
+        width: 100%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        gap: 14px;
+    }
+
+    .filter-section .filter-cards {
+        width: 100% !important;
+        height: 70vh;
+        flex-wrap: wrap;
+        justify-content: center;
+        gap: 35px;
+    }
+}

@@ -1,0 +1,22 @@
+.css-11b3ww9-MuiPaper-root-MuiAppBar-root{
+    background-color: rgb(31 41 55 / var(--tw-bg-opacity)) !important;
+    color: white;
+}
+.css-dudo9s-MuiTypography-root {
+    -webkit-box-flex: 0 !important;
+    -webkit-flex-grow: 0 !important;
+    flex-grow: 0 !important;
+    width: fit-content !important;
+}
+
+/* menuitems */
+.css-4t3x6l-MuiPaper-root-MuiDrawer-paper{
+    color: white !important;
+    background-color: #101217ed !important;
+}
+.css-mk324m {
+    width: auto;
+    height: 100vh;
+    padding: 0px 0px 25px 0px;
+    background-color:black !important;
+}

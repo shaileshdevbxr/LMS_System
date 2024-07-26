@@ -1,0 +1,90 @@
+{
+  "course&deatil": [
+    {
+      "id": 1,
+      "course_image": "https://core2web-do-data.blr1.digitaloceanspaces.com/public/course/1694072189723bootcampC.jpg",
+      "course_name": "C++ with DSA Course",
+      "course_detail": "Unleash the power of C++ and sharpen your Data Structures and Algorithms skills in our 'C++ with DSA' course. Elevate your programming finesse as you delve into the intricacies of C++, master essential DSA concepts, and seamlessly bring your gaming visions to life. Join us on this transformative journey where code meets creativity.",
+      "teacher_names": ["Rahul Maurya"],
+      "start_date": "Starts on & Feb 2024",
+      "supporting": "Email Support | Dashboard Q & A Forum",
+      "course_price": 7999,
+      "discount": 25,
+      "status_live": false
+    },
+    {
+      "id": 2,
+      "course_image": "https://www.wscubetech.com/images/best-online-data-analytics-course.webp",
+      "course_name": "Data Analytics Course",
+      "course_detail": "Unlock the power of data with our comprehensive certification course. Learn to leverage AWS services for efficient data collection, processing, visualization, and optimization. Ideal for data professionals seeking expertise in AWS Data Analytics. Enroll now for a data-driven career boost!",
+      "teacher_names": ["Rahul Maurya", "Shailesh Maurya", "Vishwa Mohan"],
+      "start_date": "Starts on & 15 Feb 2024",
+      "supporting": "Industry Relevant Projects | ...",
+      "uses_for_whom": "College Student & Working Professional",
+      "course_price": 15000,
+      "discount": 20,
+      "status_live": true
+    },
+    {
+      "id": 3,
+      "course_image": "https://www.upshottechnologies.in/images/course/full-stack-developer-training-course.jpg",
+      "course_name": "Full Stack Development Course",
+      "course_detail": "Unlock MERN stack mastery with our hands-on course. From MongoDB to React, delve into key technologies driving modern web applications. Ideal for all skill levels, this comprehensive program ensures proficiency in building scalable and dynamic solutions for companies.",
+      "teacher_names": ["Rahul Maurya", "Shailesh Maurya"],
+      "start_date": "Starts on & 30 Jan 2024",
+      "supporting": "Industry Relevant Project Based Learning | ...",
+      "uses_for_whom": "Working Professional",
+      "course_price": 18000,
+      "discount": 17,
+      "status_live": true
+    },
+    {
+      "id": 4,
+      "course_image": "https://cdn.pwskills.com/assets/uploads/thumbnails/6566ef9250c24422ac733e11.png",
+      "course_name": "Data Science With Generative AI Course",
+      "course_detail": "Unlock the potential of Generative AI in our hands-on course. Explore the limitless possibilities of Generative AI and chart. Led by industry experts, delve into ethical considerations and real-world uses. Join us to revolutionize your creative process!",
+      "teacher_names": ["Rahul Maurya", "Shailesh Maurya"],
+      "start_date": "Starts on & 30 Jan 2024",
+      "supporting": "Industry Relevant Project | ...",
+      "uses_for_whom": "Working Professional",
+      "course_price": 20000,
+      "status_live": false
+    },
+    {
+      "id": 5,
+      "course_image": "https://cdn.pwskills.com/assets/uploads/thumbnails/655ec3882a5a8347223ce209.png",
+      "course_name": "System Design Workshop",
+      "course_detail": "Unlock the power of data with our comprehensive certification course. Learn to leverage AWS services for efficient data collection, processing, visualization, and optimization. Ideal for data professionals seeking expertise in AWS Data Analytics. Enroll now for a data-driven career boost!",
+      "teacher_names": ["Vishwa Mohan"],
+      "start_date": "Starts on & 5 March 2024",
+      "uses_for_whom": "Working Professional",
+      "course_price": 19999,
+      "discount": 25,
+      "status_live": true
+    },
+    {
+      "id": 6,
+      "course_image": "https://cdn.pwskills.com/assets/uploads/thumbnails/653fe18cd85a4d33c1af4980.png",
+      "course_name": "Decode Java+DSA 1.0",
+      "course_detail": "Master the art of programming with our comprehensive course that seamlessly blends Core Java and DSA. Dive into the world of Java programming and harness the power of DSA to solve complex problems efficiently. Gain a solid foundation in both areas and become a skilled developer ready to tackle real-world challenges.",
+      "teacher_names": ["Rahul Maurya", "Vishwa Mohan"],
+      "start_date": "Starts on & 1 March 2024",
+      "supporting": "Projects | Practise Exercise",
+      "course_price": 7000,
+      "discount": 50,
+      "status_live": false
+    },
+    {
+      "id": 7,
+      "course_image": "https://cdn.pwskills.com/assets/uploads/thumbnails/6539f1bdd85a4d04f3ad2800.jpg",
+      "course_name": "Decode Full Stack Web Dev 1.0",
+      "course_detail": "Full Stack Web Development is creating complete web applications, handling both the front-end and back-end tasks, including databases and servers. It requires expertise in various programming languages, frameworks, and tools to build dynamic and user-friendly websites and applications.",
+      "teacher_names": ["Shailesh Maurya", "Rahul Maurya", "Vishwa Mohan"],
+      "start_date": "Starts on & 1 Jan 2024",
+      "supporting": "Projects | Practise Exercise",
+      "course_price": 7000,
+      "discount": 50,
+      "status_live": true
+    }
+  ]
+}

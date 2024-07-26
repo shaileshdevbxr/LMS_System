@@ -1,0 +1,36 @@
+/* .eco-card:hover .exploreBtn {
+    display: inline-flex;
+    position: absolute;
+} */
+.exp_btn {
+    visibility: hidden;
+}
+
+.exp_card{
+    /* display: none; */
+    transition: all 0.4s !important;
+
+}
+.exp_card{
+    background-color: #00ffffe8;
+}
+.exp_btn{
+    transition: all 0.4s !important;
+}
+.card1:hover .exp_btn {
+    visibility: visible !important;
+}
+
+.card2:hover .exp_btn {
+    visibility: visible !important;
+}
+
+.card3:hover .exp_btn {
+    visibility: visible !important;
+}
+.card4:hover .exp_btn {
+    visibility: visible !important;
+}
+.card5:hover .exp_btn {
+    visibility: visible !important;
+}

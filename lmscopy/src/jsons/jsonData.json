@@ -1,0 +1,296 @@
+{
+  "course&deatil": [
+    {
+      "id": 1,
+      "course_image": "https://core2web-do-data.blr1.digitaloceanspaces.com/public/course/1694072189723bootcampC.jpg",
+      "course_name": "C++ with DSA Course",
+      "course_detail": "Unleash the power of C++ and sharpen your Data Structures and Algorithms skills in our 'C++ with DSA' course. Elevate your programming finesse as you delve into the intricacies of C++, master essential DSA concepts, and seamlessly bring your gaming visions to life. Join us on this transformative journey where code meets creativity.",
+      "teacher_names": ["Rahul Maurya"],
+      "start_date": "Starts on & Feb 2024",
+      "supporting": "Email Support | Dashboard Q & A Forum",
+      "course_price": 7999,
+      "discount": 25,
+      "status_live": false,
+      "filter_by_user":{
+        "college_student":true,
+        "school_student":false,
+        "working_professional":false,
+        "status_live": false,
+        "status_trending":true,
+        "status_community":false
+      }
+    },
+    {
+      "id": 2,
+      "course_image": "https://www.wscubetech.com/images/best-online-data-analytics-course.webp",
+      "course_name": "Data Analytics Course",
+      "course_detail": "Unlock the power of data with our comprehensive certification course. Learn to leverage AWS services for efficient data collection, processing, visualization, and optimization. Ideal for data professionals seeking expertise in AWS Data Analytics. Enroll now for a data-driven career boost!",
+      "teacher_names": ["Rahul Maurya", "Shailesh Maurya", "Vishwa Mohan"],
+      "start_date": "Starts on & 15 Feb 2024",
+      "supporting": "Industry Relevant Projects | ...",
+      "uses_for_whom": "College Student & Working Professional",
+      "course_price": 15000,
+      "discount": 20,
+      "filter_by_user":{
+        "college_student":false,
+        "school_student":true,
+        "working_professional":false,
+        "status_live": true,
+        "status_trending":true,
+        "status_community":true
+      }
+
+    },
+    {
+      "id": 3,
+      "course_image": "https://www.upshottechnologies.in/images/course/full-stack-developer-training-course.jpg",
+      "course_name": "Full Stack Development Course",
+      "course_detail": "Unlock MERN stack mastery with our hands-on course. From MongoDB to React, delve into key technologies driving modern web applications. Ideal for all skill levels, this comprehensive program ensures proficiency in building scalable and dynamic solutions for companies.",
+      "teacher_names": ["Rahul Maurya", "Shailesh Maurya"],
+      "start_date": "Starts on & 30 Jan 2024",
+      "supporting": "Industry Relevant Project Based Learning | ...",
+      "uses_for_whom": "Working Professional",
+      "course_price": 18000,
+      "discount": 17,
+      "filter_by_user":{
+        "college_student":false,
+        "school_student":true,
+        "working_professional":true,
+        "status_live": true,
+        "status_trending":true,
+        "status_community":true
+      }
+    },
+    {
+      "id": 4,
+      "course_image": "https://cdn.pwskills.com/assets/uploads/thumbnails/6566ef9250c24422ac733e11.png",
+      "course_name": "Data Science With Generative AI Course",
+      "course_detail": "Unlock the potential of Generative AI in our hands-on course. Explore the limitless possibilities of Generative AI and chart. Led by industry experts, delve into ethical considerations and real-world uses. Join us to revolutionize your creative process!",
+      "teacher_names": ["Rahul Maurya", "Shailesh Maurya"],
+      "start_date": "Starts on & 30 Jan 2024",
+      "supporting": "Industry Relevant Project | ...",
+      "uses_for_whom": "Working Professional",
+      "course_price": 20000,
+      "filter_by_user":{
+        "college_student":true,
+        "school_student":true,
+        "working_professional":false,
+        "status_live": false,
+        "status_trending":true,
+        "status_community":false
+      }
+
+    },
+    {
+      "id": 5,
+      "course_image": "https://cdn.pwskills.com/assets/uploads/thumbnails/655ec3882a5a8347223ce209.png",
+      "course_name": "System Design Workshop",
+      "course_detail": "Unlock the power of data with our comprehensive certification course. Learn to leverage AWS services for efficient data collection, processing, visualization, and optimization. Ideal for data professionals seeking expertise in AWS Data Analytics. Enroll now for a data-driven career boost!",
+      "teacher_names": ["Vishwa Mohan"],
+      "start_date": "Starts on & 5 March 2024",
+      "uses_for_whom": "Working Professional",
+      "course_price": 19999,
+      "discount": 25,
+      "filter_by_user":{
+        "college_student":false,
+        "school_student":true,
+        "working_professional":true,
+        "status_live": false,
+        "status_trending":true,
+        "status_community":true
+      }
+    },
+    {
+      "id": 6,
+      "course_image": "https://cdn.pwskills.com/assets/uploads/thumbnails/653fe18cd85a4d33c1af4980.png",
+      "course_name": "Decode Java+DSA 1.0",
+      "course_detail": "Master the art of programming with our comprehensive course that seamlessly blends Core Java and DSA. Dive into the world of Java programming and harness the power of DSA to solve complex problems efficiently. Gain a solid foundation in both areas and become a skilled developer ready to tackle real-world challenges.",
+      "teacher_names": ["Rahul Maurya", "Vishwa Mohan"],
+      "start_date": "Starts on & 1 March 2024",
+      "supporting": "Projects | Practise Exercise",
+      "course_price": 7000,
+      "discount": 50,
+      "filter_by_user":{
+        "college_student":true,
+        "school_student":false,
+        "working_professional":true,
+        "status_live": false,
+        "status_trending":true,
+        "status_community":false
+      }
+    },
+    {
+      "id": 7,
+      "course_image": "https://cdn.pwskills.com/assets/uploads/thumbnails/6539f1bdd85a4d04f3ad2800.jpg",
+      "course_name": "Decode Full Stack Web Dev 1.0",
+      "course_detail": "Full Stack Web Development is creating complete web applications, handling both the front-end and back-end tasks, including databases and servers. It requires expertise in various programming languages, frameworks, and tools to build dynamic and user-friendly websites and applications.",
+      "teacher_names": ["Shailesh Maurya", "Rahul Maurya", "Vishwa Mohan"],
+      "start_date": "Starts on & 1 Jan 2024",
+      "supporting": "Projects | Practise Exercise",
+      "course_price": 7000,
+      "discount": 50,
+      "filter_by_user":{
+        "college_student":false,
+        "school_student":false,
+        "working_professional":true,
+        "status_live": true,
+        "status_trending":true,
+        "status_community":false
+      }
+    },
+    {
+      "id": 8,
+      "course_image": "https://cdn.pwskills.com/assets/uploads/thumbnails/65c0b37f732eb57885843d44.png",
+      "course_name": "Python For AI Course",
+      "course_detail": "Full Stack Web Development is creating complete web applications, handling both the front-end and back-end tasks, including databases and servers. It requires expertise in various programming languages, frameworks, and tools to build dynamic and user-friendly websites and applications.",
+      "teacher_names": ["Shailesh Maurya"],
+      "start_date": "Starts on & 25 Feb 2024",
+      "supporting": "MI Lab For Your Code Practice | ...",
+      "uses_for_whom": "College Student & Working Professional",
+      "discount": 50,
+      "isFreeAvailable":true,
+      "filter_by_user":{
+        "college_student":false,
+        "school_student":false,
+        "working_professional":true,
+        "status_live": true,
+        "status_trending":false,
+        "status_community":true
+      }
+    }
+  ],
+
+  "frequent_ask_ques": [
+    {
+      "id": 101,
+      "askedQuestion": "Who are these courses suitable for?",
+      "askedQuestionDescription": "All of our program are designed to suit the need of all candidates (UNLESS SPECIFICALLY MENTIONED) regardless of their background be it tech or non tech background since all of our programs start from the very basics and go all the way into the advance level.",
+      "isDescriptionVisible": false
+    },
+    {
+      "id": 102,
+      "askedQuestion": "Will these courses make me job worthy?",
+      "askedQuestionDescription": "At Maurya Infotech all of our programs cover core concepts which are utilized in the industry. Thus once the candidate completes the courses they for sure will be employable. Additionally we have specific Job Assurance programs the candidate can take up which ensure the candidate gets multiple interview opportunities post the completion of the course.",
+      "isDescriptionVisible": false
+    },
+    {
+      "id": 103,
+      "askedQuestion": "Are intership provided?",
+      "askedQuestionDescription": "Yes, Internships are provided along with internship experience letter post successful completion of the internship. Moreover the internships provided are real time industry projects which follow real development practicies. This provides the candidate with the hollistic understanding of the practices followed in the real world",
+      "isDescriptionVisible": false
+    },
+    {
+      "id": 104,
+      "askedQuestion": "What if my PC/Laptop is not suitable for these course?",
+      "askedQuestionDescription": "In most cases you will not require to purchase a new PC is CPU & RAM is what you are lacking, For this you can use our Maurya Infotech Virtual Lab https://lab.pwskills.com/",
+      "isDescriptionVisible": false
+    },
+    {
+      "id": 105,
+      "askedQuestion": "How will my doubts be solved or cleared?",
+      "askedQuestionDescription": "Please check your program details to check whether doubt solving medium is provided or not. For the programs where doubt support is mentioned you can clear your doubts via Chats & Email all 7 days a week 12 hours each day. To get connected with the support team once you have purchased the course please move to the my courses section and on the left you will find the chat option.",
+      "isDescriptionVisible": false
+    },
+    {
+      "id": 106,
+      "askedQuestion": "Are the classes recorded or live?",
+      "askedQuestionDescription": "Please check the batch details to see whether the batch you are taking up is in the LIVE or HYBRID format. However in the cases of LIVE classes you will also receive the recordings in your dashboard within 24 hours of the class.",
+      "isDescriptionVisible": false
+    },
+    {
+      "id": 107,
+      "askedQuestion": "How should I contact the sales team?",
+      "askedQuestionDescription": "You can reach out to the sales team via (+91 8867917516), Additionally you can also start a chat with the team by clicking on the left chat button once you open the website.",
+      "isDescriptionVisible": false
+    },
+    {
+      "id": 108,
+      "askedQuestion": "What if I miss the class?",
+      "askedQuestionDescription": "All of the sessions are recorded and uploaded to your dashboard within 24 hours of the live classes.",
+      "isDescriptionVisible": false
+    }
+  ],
+  
+  "successstories": [
+    {
+      "student_id": 1,
+      "student_name": "Shailesh Maurya",
+      "student_developer_type": "Frontend Developer",
+      "student_detail": "hello, i am shailesh maurya i was working as Frontend developer in ananya infotech. i am truly happy because its an amazing institute...",
+      "student_experience_company_from": "https://pwskills.com/images/homePage/testimonial/varahe.png",
+      "student_experience_company_to": "https://pwskills.com/images/homePage/testimonial/infosys.png",
+      "student_fresher": true,
+      "salary": "2.5 to 4.5LPA"
+    },
+    {
+      "student_id": 2,
+      "student_name": "Pritam Maurya",
+      "student_developer_type": "Backend Developer",
+      "student_detail": "hello, i am pritam maurya i was working as Frontend developer in ananya infotech. i am truly happy because its an amazing institute. i also working as a freelancing...",
+      "student_experience_company_from": "https://pwskills.com/images/homePage/testimonial/varahe.png",
+      "student_experience_company_to": "https://pwskills.com/images/homePage/testimonial/infosys.png",
+      "student_fresher": true,
+      "salary": "3.5 to 4.5LPA"
+    },
+    {
+      "student_id": 3,
+      "student_name": "Prince Maurya",
+      "student_developer_type": "Fronted Developer",
+      "student_detail": "hello, i am prince maurya i was working as Frontend developer in ananya infotech. i am truly happy because its an amazing institute. i also working as a freelancing...",
+      "student_experience_company_from": "https://pwskills.com/images/homePage/testimonial/dbs.svg",
+      "student_experience_company_to": "https://pwskills.com/images/homePage/testimonial/metyis.png",
+      "student_fresher": false,
+      "incerement": 120
+    },
+    {
+      "student_id": 4,
+      "student_name": "Rahul Singh",
+      "student_developer_type": "Andoroid Developer",
+      "student_detail": "hello, i am rahul hsing i was working as Frontend developer in ananya infotech. i am truly happy because its an amazing institute. i also working as a freelancing...",
+      "student_experience_company_from": "https://pwskills.com/images/homePage/testimonial/dbs.svg",
+      "student_experience_company_to": "https://pwskills.com/images/homePage/testimonial/michelin.png",
+      "student_fresher": true,
+      "salary": "12.5 to 14.5LPA"
+    },
+    {
+      "student_id": 5,
+      "student_name": "Gautam Singh",
+      "student_developer_type": "B.Tech Engineer",
+      "student_detail": "hello, i am gautam singh i was working as mechanical engineer in JVM Company. i am truly happy because its an amazing company. i still working in  Mahindra as a mechanical engineer...",
+      "student_experience_company_from": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-xuXdd-Bga3jGeu3pnJj4c9XXQF_3X3sBNg&s",
+      "student_experience_company_to": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTqPMdiYhEshh0njQ_IG606TPw37Q6g6z3jagJCQ-LEw&s",
+      "student_fresher": false,
+      "incerement": 60
+    },
+    {
+      "student_id": 6,
+      "student_name": "Sonu Maurya",
+      "student_developer_type": "Mern Stack Developer",
+      "student_detail": "hello, i am sonyu maurya i was working as Frontend developer in ananya infotech. i am truly happy because its an amazing institute. i also working as a freelancing...",
+      "student_experience_company_from": "https://pwskills.com/images/homePage/testimonial/ineuron-logo.png",
+      "student_experience_company_to": "https://pwskills.com/images/homePage/testimonial/aptroid_logo.png",
+      "student_fresher": false,
+      "incerement": 180
+    },
+    {
+      "student_id": 7,
+      "student_name": "Sanchay Mansinghka",
+      "student_developer_type": "Data Analytics",
+      "student_detail": "hello, i am sanchay mansinghka i was working as Frontend developer in ananya infotech. i am truly happy because its an amazing institute. i also working as a freelancing...",
+      "student_experience_company_from": "https://pwskills.com/images/homePage/testimonial/varahe.png",
+      "student_experience_company_to": "https://pwskills.com/images/homePage/testimonial/dbs.svg",
+      "student_fresher": false,
+      "incerement": 80
+    },
+    {
+      "student_id": 8,
+      "student_name": "Manshi Pandey",
+      "student_developer_type": "Fronted Developer",
+      "student_detail": "hello, i am manshi pandey i was working as Frontend developer in ananya infotech. i am truly happy because its an amazing institute. i also working as a freelancing...",
+      "student_experience_company_from": "https://pwskills.com/images/homePage/testimonial/varahe.png",
+      "student_experience_company_to": "https://pwskills.com/images/homePage/testimonial/speridian.png",
+      "student_fresher": true,
+      "salary": "3.5 to 4.5LPA"
+    }
+  ]
+}

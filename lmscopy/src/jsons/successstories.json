@@ -1,0 +1,84 @@
+{
+  "successstories": [
+    {
+      "student_id": 1,
+      "student_name": "Shailesh Maurya",
+      "student_developer_type": "Frontend Developer",
+      "student_detail": "hello, i am shailesh maurya i was working as Frontend developer in ananya infotech. i am truly happy because its an amazing institute...",
+      "student_experience_company_from": "https://pwskills.com/images/homePage/testimonial/varahe.png",
+      "student_experience_company_to": "https://pwskills.com/images/homePage/testimonial/infosys.png",
+      "student_fresher": true,
+      "salary": "2.5 to 4.5LPA"
+    },
+    {
+      "student_id": 2,
+      "student_name": "Pritam Maurya",
+      "student_developer_type": "Backend Developer",
+      "student_detail": "hello, i am pritam maurya i was working as Frontend developer in ananya infotech. i am truly happy because its an amazing institute. i also working as a freelancing...",
+      "student_experience_company_from": "https://pwskills.com/images/homePage/testimonial/varahe.png",
+      "student_experience_company_to": "https://pwskills.com/images/homePage/testimonial/infosys.png",
+      "student_fresher": true,
+      "salary": "3.5 to 4.5LPA"
+    },
+    {
+      "student_id": 3,
+      "student_name": "Prince Maurya",
+      "student_developer_type": "Fronted Developer",
+      "student_detail": "hello, i am prince maurya i was working as Frontend developer in ananya infotech. i am truly happy because its an amazing institute. i also working as a freelancing...",
+      "student_experience_company_from": "https://pwskills.com/images/homePage/testimonial/dbs.svg",
+      "student_experience_company_to": "https://pwskills.com/images/homePage/testimonial/metyis.png",
+      "student_fresher": false,
+      "incerement": 120
+    },
+    {
+      "student_id": 4,
+      "student_name": "Rahul Singh",
+      "student_developer_type": "Andoroid Developer",
+      "student_detail": "hello, i am rahul hsing i was working as Frontend developer in ananya infotech. i am truly happy because its an amazing institute. i also working as a freelancing...",
+      "student_experience_company_from": "https://pwskills.com/images/homePage/testimonial/dbs.svg",
+      "student_experience_company_to": "https://pwskills.com/images/homePage/testimonial/michelin.png",
+      "student_fresher": true,
+      "salary": "12.5 to 14.5LPA"
+    },
+    {
+      "student_id": 5,
+      "student_name": "Gautam Maurya",
+      "student_developer_type": "Web Developer",
+      "student_detail": "hello, i am gautam maurya i was working as Frontend developer in ananya infotech. i am truly happy because its an amazing institute. i also working as a freelancing...",
+      "student_experience_company_from": "https://pwskills.com/images/homePage/testimonial/speridian.png",
+      "student_experience_company_to": "https://pwskills.com/images/homePage/testimonial/aptroid_logo.png",
+      "student_fresher": false,
+      "incerement": 60
+    },
+    {
+      "student_id": 6,
+      "student_name": "Sonu Maurya",
+      "student_developer_type": "Mern Stack Developer",
+      "student_detail": "hello, i am sonyu maurya i was working as Frontend developer in ananya infotech. i am truly happy because its an amazing institute. i also working as a freelancing...",
+      "student_experience_company_from": "https://pwskills.com/images/homePage/testimonial/ineuron-logo.png",
+      "student_experience_company_to": "https://pwskills.com/images/homePage/testimonial/aptroid_logo.png",
+      "student_fresher": false,
+      "incerement": 180
+    },
+    {
+      "student_id": 7,
+      "student_name": "Sanchay Mansinghka",
+      "student_developer_type": "Data Analytics",
+      "student_detail": "hello, i am sanchay mansinghka i was working as Frontend developer in ananya infotech. i am truly happy because its an amazing institute. i also working as a freelancing...",
+      "student_experience_company_from": "https://pwskills.com/images/homePage/testimonial/varahe.png",
+      "student_experience_company_to": "https://pwskills.com/images/homePage/testimonial/dbs.svg",
+      "student_fresher": false,
+      "incerement": 80
+    },
+    {
+      "student_id": 8,
+      "student_name": "Manshi Pandey",
+      "student_developer_type": "Fronted Developer",
+      "student_detail": "hello, i am manshi pandey i was working as Frontend developer in ananya infotech. i am truly happy because its an amazing institute. i also working as a freelancing...",
+      "student_experience_company_from": "https://pwskills.com/images/homePage/testimonial/varahe.png",
+      "student_experience_company_to": "https://pwskills.com/images/homePage/testimonial/speridian.png",
+      "student_fresher": true,
+      "salary": "3.5 to 4.5LPA"
+    }
+  ]
+}

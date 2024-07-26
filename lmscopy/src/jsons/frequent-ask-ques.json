@@ -1,0 +1,52 @@
+{
+  "frequent_ask_ques": [
+    {
+      "id": 101,
+      "askedQuestion": "Who are these courses suitable for?",
+      "askedQuestionDescription": "All of our program are designed to suit the need of all candidates (UNLESS SPECIFICALLY MENTIONED) regardless of their background be it tech or non tech background since all of our programs start from the very basics and go all the way into the advance level.",
+      "isDescriptionVisible": false
+    },
+    {
+      "id": 102,
+      "askedQuestion": "Will these courses make me job worthy?",
+      "askedQuestionDescription": "At Maurya Infotech all of our programs cover core concepts which are utilized in the industry. Thus once the candidate completes the courses they for sure will be employable. Additionally we have specific Job Assurance programs the candidate can take up which ensure the candidate gets multiple interview opportunities post the completion of the course.",
+      "isDescriptionVisible": false
+    },
+    {
+      "id": 103,
+      "askedQuestion": "Are intership provided?",
+      "askedQuestionDescription": "Yes, Internships are provided along with internship experience letter post successful completion of the internship. Moreover the internships provided are real time industry projects which follow real development practicies. This provides the candidate with the hollistic understanding of the practices followed in the real world",
+      "isDescriptionVisible": false
+    },
+    {
+      "id": 104,
+      "askedQuestion": "What if my PC/Laptop is not suitable for these course?",
+      "askedQuestionDescription": "In most cases you will not require to purchase a new PC is CPU & RAM is what you are lacking, For this you can use our Maurya Infotech Virtual Lab https://lab.pwskills.com/",
+      "isDescriptionVisible": false
+    },
+    {
+      "id": 105,
+      "askedQuestion": "How will my doubts be solved or cleared?",
+      "askedQuestionDescription": "Please check your program details to check whether doubt solving medium is provided or not. For the programs where doubt support is mentioned you can clear your doubts via Chats & Email all 7 days a week 12 hours each day. To get connected with the support team once you have purchased the course please move to the my courses section and on the left you will find the chat option.",
+      "isDescriptionVisible": false
+    },
+    {
+      "id": 106,
+      "askedQuestion": "Are the classes recorded or live?",
+      "askedQuestionDescription": "Please check the batch details to see whether the batch you are taking up is in the LIVE or HYBRID format. However in the cases of LIVE classes you will also receive the recordings in your dashboard within 24 hours of the class.",
+      "isDescriptionVisible": false
+    },
+    {
+      "id": 107,
+      "askedQuestion": "How should I contact the sales team?",
+      "askedQuestionDescription": "You can reach out to the sales team via (+91 8867917516), Additionally you can also start a chat with the team by clicking on the left chat button once you open the website.",
+      "isDescriptionVisible": false
+    },
+    {
+      "id": 108,
+      "askedQuestion": "What if I miss the class?",
+      "askedQuestionDescription": "All of the sessions are recorded and uploaded to your dashboard within 24 hours of the live classes.",
+      "isDescriptionVisible": false
+    }
+  ]
+}
